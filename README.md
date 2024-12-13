@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first project using html only for the moment if I finish with everything working properly I will demostrate that I now how to build a basic webpage using html 13/12/2024
